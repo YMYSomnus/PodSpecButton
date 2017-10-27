@@ -10,6 +10,7 @@
 
 @implementation UIButton (JKNAdditions)
 
+/// 注释
 - (void)jkn_setTitlePositionWithType:(JKNButtonTitlePostionType)type space:(CGFloat)space
 {
      CGSize imageSize = self.imageView.frame.size;
